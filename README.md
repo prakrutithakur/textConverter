@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# TextConverter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+This is a simple React project, where you can manipulate your text. \
+\convert to uppercase
+\convert to lower case
+\copy text
+\remove spaces
+\capitalize sentences or eac word etc.
 \
 You can visit the app here: https://prakrutithakur.github.io/textConverter/
 ## Available Scripts
